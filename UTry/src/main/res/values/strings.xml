@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">U Try</string>
+    <string name="welcome_utry">Welcome to U Try!</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+    <string name="transition_view">transitionView</string>
+    <string name="transition_image">transitionImage</string>
+    <string name="up">Up</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+
+</resources>
