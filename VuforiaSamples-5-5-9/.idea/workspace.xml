@@ -39,12 +39,22 @@
       <file leaf-file-name="UserDefinedTargets.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="846">
-              <caret line="895" column="0" selection-start-line="895" selection-start-column="0" selection-end-line="895" selection-end-column="0" />
+            <state relative-caret-position="272">
+              <caret line="496" column="107" selection-start-line="496" selection-start-column="104" selection-end-line="496" selection-end-column="107" />
               <folding>
+                <element signature="e#4480#4481#0" expanded="true" />
+                <element signature="e#4515#4516#0" expanded="true" />
+                <element signature="e#4726#5100#0" expanded="true" />
+                <element signature="e#5099#5100#0" expanded="true" />
+                <element signature="e#8094#8280#0" expanded="true" />
+                <element signature="e#8279#8280#0" expanded="true" />
                 <element signature="e#8358#8387#0" expanded="true" />
                 <element signature="e#8431#8477#0" expanded="true" />
                 <element signature="e#8506#8551#0" expanded="true" />
+                <element signature="e#8802#8929#0" expanded="true" />
+                <element signature="e#8928#8929#0" expanded="true" />
+                <element signature="e#11500#11501#0" expanded="true" />
+                <element signature="e#11569#11570#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -2090,12 +2100,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="846">
-          <caret line="895" column="0" selection-start-line="895" selection-start-column="0" selection-end-line="895" selection-end-column="0" />
+        <state relative-caret-position="272">
+          <caret line="496" column="107" selection-start-line="496" selection-start-column="104" selection-end-line="496" selection-end-column="107" />
           <folding>
+            <element signature="e#4480#4481#0" expanded="true" />
+            <element signature="e#4515#4516#0" expanded="true" />
+            <element signature="e#4726#5100#0" expanded="true" />
+            <element signature="e#5099#5100#0" expanded="true" />
+            <element signature="e#8094#8280#0" expanded="true" />
+            <element signature="e#8279#8280#0" expanded="true" />
             <element signature="e#8358#8387#0" expanded="true" />
             <element signature="e#8431#8477#0" expanded="true" />
             <element signature="e#8506#8551#0" expanded="true" />
+            <element signature="e#8802#8929#0" expanded="true" />
+            <element signature="e#8928#8929#0" expanded="true" />
+            <element signature="e#11500#11501#0" expanded="true" />
+            <element signature="e#11569#11570#0" expanded="true" />
           </folding>
         </state>
       </provider>
