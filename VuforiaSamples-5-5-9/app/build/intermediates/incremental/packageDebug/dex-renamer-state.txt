@@ -1,7 +1,0 @@
-#Mon Sep 26 18:30:11 BRT 2016
-base.0=/home/joao/workspace/VuforiaSamples-5-5-9/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dd1c7c8ec073f711f504f2c0691ffadc740314e0
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/home/joao/workspace/VuforiaSamples-5-5-9/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dfde61c70d03b6bc9ed1058dfa64d580071afbe1/classes.dex
-base.1=/home/joao/workspace/VuforiaSamples-5-5-9/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dfde61c70d03b6bc9ed1058dfa64d580071afbe1
-file.0=/home/joao/workspace/VuforiaSamples-5-5-9/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dd1c7c8ec073f711f504f2c0691ffadc740314e0/classes.dex

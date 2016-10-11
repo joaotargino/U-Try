@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/joao/workspace/VuforiaSamples-5-5-9/app/build/intermediates/res/merged/debug/drawable-mdpi/logo.png",
-        "source": "/home/joao/workspace/VuforiaSamples-5-5-9/app/src/main/res/drawable-mdpi/logo.png"
+        "merged": "/home/joao/workspace/Empsoft/VuforiaSamples-5-5-9/app/build/intermediates/res/merged/debug/drawable-mdpi/icon.png",
+        "source": "/home/joao/workspace/Empsoft/VuforiaSamples-5-5-9/app/src/main/res/drawable-mdpi/icon.png"
     },
     {
-        "merged": "/home/joao/workspace/VuforiaSamples-5-5-9/app/build/intermediates/res/merged/debug/drawable-mdpi/icon.png",
-        "source": "/home/joao/workspace/VuforiaSamples-5-5-9/app/src/main/res/drawable-mdpi/icon.png"
+        "merged": "/home/joao/workspace/Empsoft/VuforiaSamples-5-5-9/app/build/intermediates/res/merged/debug/drawable-mdpi/logo.png",
+        "source": "/home/joao/workspace/Empsoft/VuforiaSamples-5-5-9/app/src/main/res/drawable-mdpi/logo.png"
     }
 ]
