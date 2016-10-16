@@ -84,6 +84,10 @@ namespace Vuforia
             }
 
             mFramesSinceLastOrientationReset++;
+
+			if (Input.GetKeyDown (KeyCode.Escape)) {
+				Application.Quit ();
+			}
         }
 
         /// <summary>
