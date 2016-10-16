@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/joao/workspace/Empsoft/VuforiaSamples-5-5-9/app/build/intermediates/res/merged/debug/drawable-hdpi/icon.png",
+        "source": "/home/joao/workspace/Empsoft/VuforiaSamples-5-5-9/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/joao/workspace/Empsoft/VuforiaSamples-5-5-9/app/build/intermediates/res/merged/debug/drawable-hdpi/logo.png",
+        "source": "/home/joao/workspace/Empsoft/VuforiaSamples-5-5-9/app/src/main/res/drawable-hdpi/logo.png"
+    }
+]

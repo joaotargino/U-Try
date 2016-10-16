@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/joao/workspace/Empsoft/VuforiaSamples-5-5-9/app/build/intermediates/res/merged/debug/layout/sample_app_menu_layer.xml",
+        "source": "/home/joao/workspace/Empsoft/VuforiaSamples-5-5-9/app/src/main/res/layout/sample_app_menu_layer.xml"
+    },
+    {
+        "merged": "/home/joao/workspace/Empsoft/VuforiaSamples-5-5-9/app/build/intermediates/res/merged/debug/layout/sample_app_menu_group_radio_button.xml",
+        "source": "/home/joao/workspace/Empsoft/VuforiaSamples-5-5-9/app/src/main/res/layout/sample_app_menu_group_radio_button.xml"
+    },
+    {
+        "merged": "/home/joao/workspace/Empsoft/VuforiaSamples-5-5-9/app/build/intermediates/res/merged/debug/layout/about_screen.xml",
+        "source": "/home/joao/workspace/Empsoft/VuforiaSamples-5-5-9/app/src/main/res/layout/about_screen.xml"
+    },
+    {
+        "merged": "/home/joao/workspace/Empsoft/VuforiaSamples-5-5-9/app/build/intermediates/res/merged/debug/layout/camera_overlay_textreco.xml",
+        "source": "/home/joao/workspace/Empsoft/VuforiaSamples-5-5-9/app/src/main/res/layout/camera_overlay_textreco.xml"
+    },
+    {
+        "merged": "/home/joao/workspace/Empsoft/VuforiaSamples-5-5-9/app/build/intermediates/res/merged/debug/layout/sample_app_menu_group_divider.xml",
+        "source": "/home/joao/workspace/Empsoft/VuforiaSamples-5-5-9/app/src/main/res/layout/sample_app_menu_group_divider.xml"
+    },
+    {
+        "merged": "/home/joao/workspace/Empsoft/VuforiaSamples-5-5-9/app/build/intermediates/res/merged/debug/layout/camera_overlay_udt.xml",
+        "source": "/home/joao/workspace/Empsoft/VuforiaSamples-5-5-9/app/src/main/res/layout/camera_overlay_udt.xml"
+    },
+    {
+        "merged": "/home/joao/workspace/Empsoft/VuforiaSamples-5-5-9/app/build/intermediates/res/merged/debug/layout/splash_screen.xml",
+        "source": "/home/joao/workspace/Empsoft/VuforiaSamples-5-5-9/app/src/main/res/layout/splash_screen.xml"
+    },
+    {
+        "merged": "/home/joao/workspace/Empsoft/VuforiaSamples-5-5-9/app/build/intermediates/res/merged/debug/layout/activities_list.xml",
+        "source": "/home/joao/workspace/Empsoft/VuforiaSamples-5-5-9/app/src/main/res/layout/activities_list.xml"
+    },
+    {
+        "merged": "/home/joao/workspace/Empsoft/VuforiaSamples-5-5-9/app/build/intermediates/res/merged/debug/layout/camera_overlay.xml",
+        "source": "/home/joao/workspace/Empsoft/VuforiaSamples-5-5-9/app/src/main/res/layout/camera_overlay.xml"
+    },
+    {
+        "merged": "/home/joao/workspace/Empsoft/VuforiaSamples-5-5-9/app/build/intermediates/res/merged/debug/layout/sample_app_menu_group.xml",
+        "source": "/home/joao/workspace/Empsoft/VuforiaSamples-5-5-9/app/src/main/res/layout/sample_app_menu_group.xml"
+    },
+    {
+        "merged": "/home/joao/workspace/Empsoft/VuforiaSamples-5-5-9/app/build/intermediates/res/merged/debug/layout/activities_list_text_view.xml",
+        "source": "/home/joao/workspace/Empsoft/VuforiaSamples-5-5-9/app/src/main/res/layout/activities_list_text_view.xml"
+    }
+]
