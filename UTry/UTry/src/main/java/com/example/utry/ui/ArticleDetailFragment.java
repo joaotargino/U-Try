@@ -111,7 +111,7 @@ public class ArticleDetailFragment extends Fragment implements
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent launchIntent = getActivity().getPackageManager().getLaunchIntentForPackage("com.vuforia.samples.VuforiaSamples");
+                Intent launchIntent = getActivity().getPackageManager().getLaunchIntentForPackage("com.moolajoo.utry");
                 if (launchIntent != null) {
                     startActivity(launchIntent);//null pointer check in case package name was not found
                 }
