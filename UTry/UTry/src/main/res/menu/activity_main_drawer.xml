@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_run"
+            android:icon="@drawable/ic_arrow_back"
+            android:title="Aneis" />
+        <item
+            android:id="@+id/nav_library"
+            android:icon="@drawable/ic_arrow_back"
+            android:title="Colares" />
+        <item
+            android:id="@+id/nav_settins"
+            android:icon="@drawable/ic_arrow_back"
+            android:title="Brincos" />
+
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_arrow_back"
+            android:title="Sobre" />
+
+    </group>
+
+    <group
+        android:id="@+id/settings_menu_items"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_google_sign_in"
+            android:icon="@drawable/ic_arrow_back"
+            android:title="Login"
+            android:visible="false" />
+        <item
+            android:id="@+id/nav_google_sign_out"
+            android:icon="@drawable/ic_arrow_back"
+            android:title="Logout"
+            android:visible="false" />
+
+
+    </group>
+
+</menu>
