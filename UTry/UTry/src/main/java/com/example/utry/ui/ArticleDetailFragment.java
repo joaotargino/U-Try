@@ -68,6 +68,7 @@ public class ArticleDetailFragment extends Fragment implements
 
         if (getArguments().containsKey(ARG_ITEM_ID)) {
             mItemId = getArguments().getLong(ARG_ITEM_ID);
+            Log.d("mitemid", String.valueOf(mItemId % 2 == 0));
         }
 
         mIsCard = getResources().getBoolean(R.bool.detail_is_card);
@@ -108,10 +109,16 @@ public class ArticleDetailFragment extends Fragment implements
 
         FloatingActionButton fab = (FloatingActionButton) mRootView.findViewById(R.id.share_fab);
 
+        final String intent_path;
+
+        if(mItemId % 2 == 0)
+            intent_path = "com.moolajoo.utry";
+        else
+            intent_path = "com.vuforia.samples.VuforiaSamples";
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent launchIntent = getActivity().getPackageManager().getLaunchIntentForPackage("com.moolajoo.utry");
+                Intent launchIntent = getActivity().getPackageManager().getLaunchIntentForPackage(intent_path);
                 if (launchIntent != null) {
                     startActivity(launchIntent);//null pointer check in case package name was not found
                 }

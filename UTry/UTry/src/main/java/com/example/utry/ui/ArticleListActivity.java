@@ -187,6 +187,7 @@ public class ArticleListActivity extends AppCompatActivity implements Navigation
                                 trans.getTransitionName()
                         )
                                 .toBundle();
+                        bundle.putInt("pos", 1);
                         startActivity(new Intent(Intent.ACTION_VIEW,
                                 ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition()))), bundle);
                     } else {
