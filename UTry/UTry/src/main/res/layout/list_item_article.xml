@@ -8,7 +8,9 @@
     android:layout_marginBottom="@dimen/card_margin"
     android:clickable="true"
     android:focusable="true"
-    android:foreground="?selectableItemBackground">
+    android:foreground="?selectableItemBackground"
+    >
+
 
     <LinearLayout
         android:id="@+id/item_layout"
@@ -24,6 +26,7 @@
             android:id="@+id/thumbnail"
             android:layout_width="match_parent"
             android:layout_height="@dimen/item_list_image_height"
+            android:scaleType="centerCrop"
             android:background="@color/photo_placeholder"
             />
 

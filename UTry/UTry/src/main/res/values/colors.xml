@@ -27,9 +27,9 @@
     <color name="secondaryTest">#727272</color>
     <color name="black_overlay">#66000000</color>
 
-    <color name="purple_300">#BA68C8</color>
-    <color name="purple_500">#9C27B0</color>
-    <color name="purple_700">#7B1FA2</color>
-    <color name="indigo_a200">#536DFE</color>
+    <color name="purple_300">#262426</color>
+    <color name="purple_500">#19181a</color>
+    <color name="purple_700">#1f1d20</color>
+    <color name="indigo_a200">#1b1c1e</color>
 
 </resources>
