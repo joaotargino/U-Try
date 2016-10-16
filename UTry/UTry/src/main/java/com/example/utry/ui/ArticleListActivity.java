@@ -151,7 +151,7 @@ public class ArticleListActivity extends AppCompatActivity implements Navigation
     public boolean onNavigationItemSelected(@NonNull MenuItem item) {
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
-        return false;
+        return true;
     }
 
     private class Adapter extends RecyclerView.Adapter<ViewHolder> {
